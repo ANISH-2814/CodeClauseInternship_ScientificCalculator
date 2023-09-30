@@ -1,1 +1,2 @@
-# CodeClauseInternship_ScientificCalculator
+# CodeClause_project_Scientific_calulator
+Scientific calculator 
