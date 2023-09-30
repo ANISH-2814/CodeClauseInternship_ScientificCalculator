@@ -1,4 +1,3 @@
-// kamleshlodhi
 import java.util.Scanner;
 
 public class ScientificCalculator {
